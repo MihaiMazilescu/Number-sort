@@ -2,7 +2,7 @@
 
 Trebuie să realizaţi o sortare de numere în următorul mod:
 
-numerele trebuie ordonate crescător în funcţie de cea mai mică cifră;
+Numerele trebuie ordonate crescător în funcţie de cea mai mică cifră;
 dacă numerele au aceeaşi cea mai mică cifră, atunci ele vor trebui ordonate crescător în funcţie de cea mai mare cifră;
 dacă numerele au aceeaşi cea mai mică şi cea mai mare cifră, atunci ele trebuie ordonate crescător.
 Date de intrare
